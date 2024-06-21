@@ -1,6 +1,6 @@
 # FOCI - Benchmark for Fine-grained Object ClassIfication of LVLMs
 The is the repository for our work [African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification
-](TODO).
+](https://arxiv.org/abs/2406.14496).
 
 ## About
 We present **FOCI**, a benchmark for Fine-grained Object ClassIfication for large vision language models (LVLMs).
@@ -72,10 +72,10 @@ If you find our code/data/models or ideas useful in your research, please consid
                   Goran Glava\v{s}},
   title        = {African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification},
   journal      = {arXiv},
-  volume       = {abs/TODO},
+  volume       = {abs/2406.14496},
   year         = {2024},
-  url          = {https://arxiv.org/abs/TODO},
+  url          = {https://arxiv.org/abs/2406.14496},
   eprinttype   = {arXiv},
-  eprint       = {TODO},
+  eprint       = {2406.14496},
 }
 ````
